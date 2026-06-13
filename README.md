@@ -5,7 +5,7 @@ Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Oppor
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathsarawickramasinghe&label=Profile%20Views&color=031724&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sachithra-123&label=Profile%20Views&color=031724&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -15,42 +15,36 @@ Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Oppor
 - 🎓 Final-Year HNDIT Student at SLIATE
 - 🚀 Dedicated student who learns new technologies quickly and continuously improves skills
 - 💡 Passionate about building real-world web applications
-- 🌱 Currently focusing on MERN Stack (React, Node.js, Express, MongoDB)
-- 💼 Skilled in React, Node.js, Express.js, MongoDB, MySQL, WordPress, Java, and PHP
-- 🌐 Portfolio: https://sathsarawickramasinghe.netlify.app/
-- 📫 Email: sathsaragavindu2003@gmail.com
+- 🌱 Currently focusing on SpringFramwork
+- 💼 Skilled in HTML, CSS, MySQL, Java, and PHP
+- 🌐 Portfolio: 
+- 📫 Email: sachiwizz@gmail.com
 
 ---
 
 ## 🚀 Projects
 
-### 🔥 Learning Management System (Final Year Project)
-- MERN Stack based LMS for "Media By Harsha"
-- Student Authentication System
-- Teacher Management Module
-- Course Management System
-- Responsive UI Design
+### 🔥 Multi Factory And Multi Outlet management system with outlet pos system (final project )
+-Java Springboost base web application
+-All factories can be managed in one place
+-centrized data base using my sql
+-include outlet pos system
+-Admin can add roles
 
 ---
 
-### 💻 Portfolio Website
-- Personal developer portfolio
-- Showcases skills, projects, and contact details
-- Fully responsive and deployed on Netlify
+### 💻 pos system
+-Java and javaswang base pos system
+o-ffline
+-using xwamp my sql for database
 
 ---
 
-### 💻 Website design for VW constructions
-- Bussiness company website
-- Showcases projects, about company and contact details
-- Fully responsive and deployed on Netlify
+### 💻Prajashakthi web applcaton
+-PHP-based web application
+-Managing Grama Niladhari Division
+-Add projects and manage projects inside the division
 
----
-
-### 💻 Website design for Ushan Mobile
-- Bussiness company website
-- Showcases services, about company and contact details
-- Fully responsive and deployed on Netlify
 
 ---
 
