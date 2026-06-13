@@ -83,11 +83,11 @@ Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Oppor
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original-wordmark.svg" width="45" height="45"/>
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original-wordmark.svg" width="45" height="45"/>
 
 
 
