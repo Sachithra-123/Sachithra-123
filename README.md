@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sathsara Wickramasinghe</h1>
+<h1 align="center">Hi 👋, I'm Sachithra Mihiran</h1>
 
 <h3 align="center">
-Final-Year HNDIT Student | MERN Stack Developer | React & Node.js Enthusiast | WordPress Developer
+Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Opportunities |  HNDIT Student
 </h3>
 
 <p align="center">
