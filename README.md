@@ -34,7 +34,7 @@ Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Oppor
 ---
 
 ### 💻 pos system
-- Java and javaswang base pos system
+- Java and base pos system
 - offline
 - using xwamp my sql for database
 
