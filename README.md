@@ -79,7 +79,7 @@ Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Oppor
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="45" height="45"/>
 
 
 
