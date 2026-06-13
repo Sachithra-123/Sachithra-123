@@ -25,25 +25,25 @@ Junior Java Developer | Spring Boot & MySQL Developer | Open to Internship Oppor
 ## 🚀 Projects
 
 ### 🔥 Multi Factory And Multi Outlet management system with outlet pos system (final project )
--Java Springboost base web application
--All factories can be managed in one place
--centrized data base using my sql
--include outlet pos system
--Admin can add roles
+- Java Springboost base web application
+- All factories can be managed in one place
+- centrized data base using my sql
+- include outlet pos system
+- Admin can add roles
 
 ---
 
 ### 💻 pos system
--Java and javaswang base pos system
-o-ffline
--using xwamp my sql for database
+- Java and javaswang base pos system
+- offline
+- using xwamp my sql for database
 
 ---
 
 ### 💻Prajashakthi web applcaton
--PHP-based web application
--Managing Grama Niladhari Division
--Add projects and manage projects inside the division
+- PHP-based web application
+- Managing Grama Niladhari Division
+- Add projects and manage projects inside the division
 
 
 ---
